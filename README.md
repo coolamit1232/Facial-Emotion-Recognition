@@ -10,18 +10,19 @@ Here, our goal is to detect expressions mentioned above either in an image or a 
  
 This project is based on convulational neural network (CNN) to classify images into seven most common human expressions that are: **ANGER, DISGUST, FEAR, HAPPY, NEUTRAL, SAD, SURPRISE**.
 
----
+<br/ >
 ## Dataset
-Dataset contains 28,709 training and 7,178 testing images, each of size 48x48.
+Dataset contains 28,709 training and 7,178 testing images, each of size 48x48. \
 There is a directory for each expression type containing images of that expression only
 
 ### Link : https://www.kaggle.com/msambare/fer2013
 
+<br/ >
 # How to Run the Model
 
 After downloading data from the above ementioned sources: 
-+ 1. For real time prediction you can run the file "Run.ipynb".
-+ 2. Or you can create or modify CNN model in the file Model i.e "Facial Emotion Recognition.ipynb" to train the model. You can add or delete layers in MLP part of the model based on your data and results. Don't forget to save your model after each epoch.
+ 1. For real time prediction you can run the file "Run.ipynb".
+ 2. Or you can create or modify CNN model in the file Model i.e "Facial Emotion Recognition.ipynb" to train the model. You can add or delete layers in MLP part of the model based on your data and results. Don't forget to save your model after each epoch.
 
 
 # Prerequisites
