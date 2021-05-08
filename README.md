@@ -17,18 +17,18 @@ There is a directory for each expression type containing images of that expressi
 
 ### Link : https://www.kaggle.com/msambare/fer2013
 
-#How to Run the Model
+# How to Run the Model
 
 After downloading data from the above ementioned sources: 
-1. For real time prediction you can run the file "Run.ipynb".
-2. Or you can create or modify CNN model in the file Model i.e "Facial Emotion Recognition.ipynb" to train the model. You can add or delete layers in MLP part of the model based on your data and results. Don't forget to save your model after each epoch.
++ 1. For real time prediction you can run the file "Run.ipynb".
++ 2. Or you can create or modify CNN model in the file Model i.e "Facial Emotion Recognition.ipynb" to train the model. You can add or delete layers in MLP part of the model based on your data and results. Don't forget to save your model after each epoch.
 
 
-#Prerequisites
+# Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 
-Python 3
-Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
-OpenCV
-keras
++ Python 3
++ Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
++ OpenCV
++ keras
 
